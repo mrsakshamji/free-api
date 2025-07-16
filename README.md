@@ -42,7 +42,7 @@ x-api-key: saksham-api-news-11-04-2005-protected-paid
 
 ## 🔄 Update Frequency
 
-- 🕒 **Every 15 minutes**
+- 🕒 **Every 5 minutes**
 - 🔄 Automated by **GitHub Actions**
 - 📁 Source JSON: [hindu-main-news.json](https://mrsakshamji.github.io/hindu-news-scraper/hindu-main-news.json)
 
